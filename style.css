@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+
+body {
+	background: #1c3763;
+	font-family: 'Permanent Marker', cursive;
+}
+
+.jumbotron {
+	margin-top: 60px;
+	background-image: url(img/blank-business-composition-373076.jpg);
+	background-size: cover;
+}
+
+.head {
+	text-align: center;
+}
+
+.head ul {
+	list-style: none;
+	text-align: center;
+	margin-left: -50px;
+}
+
+.content {
+	background-color: lightgray;
+	padding: 30px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1), 0 6px 20px 0 rgba(0, 0, 0, 1);
+}
+
+#about {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+#projects {
+	margin-top: 30px;
+	margin-bottom: 30px;
+	text-align: center;
+}
+
+#projects-row-1 {
+	margin-top: 20px;
+	margin-bottom: 50px;
+}
+
+#projects-row-2 {
+	margin-top: 20px;
+	margin-bottom: 50px;
+}
+
+#contact {
+	
+}
