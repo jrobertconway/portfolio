@@ -3,12 +3,14 @@
 body {
 	background: #1c3763;
 	font-family: 'Permanent Marker', cursive;
+	font-size: 20px;
 }
 
 .jumbotron {
 	margin-top: 60px;
 	background-image: url(img/blank-business-composition-373076.jpg);
 	background-size: cover;
+	opacity: 1;
 }
 
 .head {
@@ -28,8 +30,8 @@ body {
 }
 
 #about {
-	margin-top: 30px;
-	margin-bottom: 30px;
+	margin-top: 60px;
+	margin-bottom: 60px;
 }
 
 #projects {
@@ -48,6 +50,3 @@ body {
 	margin-bottom: 50px;
 }
 
-#contact {
-	
-}
